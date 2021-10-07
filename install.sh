@@ -5,8 +5,8 @@ apt-get upgrade
 apt-get install nmap
 apt-get clean
 apt-get install tty-clock
-apt-get install sox -y
-apt-get install jq -y
+apt-get install sox
+apt-get install jq
 apt-get install figlet
 apt-get install wget
 apt-get install ffmpeg libwebp
