@@ -1,7 +1,12 @@
 <div align="center">
 <img src="https://avatars.githubusercontent.com/u/76092760?s=400&u=6ab5dec127e4a13e81d46d44387d395f943fe914&v=4" alt="Kazumi-Team" width="300" />
 
-# DCODE DENPA
+<p align="center">
+<a href="#"><img title="👾JAVAICA👾" src="https://img.shields.io/badge/JAVAICA-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+</p>
+<p align="center">
+<a href="https://github.com/rubenbot2"><img title="Author" src="https://img.shields.io/badge/AUTHOR-JAVAICA ID-orange.svg?style=for-the-badge&logo=github"></a>
+</p>
 
 >
 >
