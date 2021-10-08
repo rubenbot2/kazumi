@@ -17,9 +17,11 @@
   <a href="https://wa.me/6281235877763"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 </p>
 
-##  VIEW LOGS HEROKU
-<a href="https://dashboard.heroku.com/apps/javaica-back/logs"><img title="👾JAVAICA👾" src="https://img.shields.io/badge/VIEW LOGS-blueviolet?logoColor=violet&colorB=%23017e40&style=for-the-badge"></a>
+
 <a href="https://avatars.githubusercontent.com/u/76629978?v="><img title="Javaica" src="https://img.shields.io/static/v1?label=View Logs&message=HEROKU&color=<bluesoviet>"></a>
+
+<a href="https://dashboard.heroku.com/apps/javaica-back/logs"><img title="👾JAVAICA👾" src="https://img.shields.io/badge/VIEW LOGS-blueviolet?logoColor=violet&colorB=%23017e40&style=for-the-badge"></a>
+
 ## CARA INSTALL DI TERMUX
 ```bash
 > pkg install nodejs && pkg install git
