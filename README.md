@@ -18,7 +18,7 @@
 </p>
 
 ##  VIEW LOGS HEROKU
-<a href="https://dashboard.heroku.com/apps/javaica-back/logs"><img title="👾JAVAICA👾" src="https://img.shields.io/badge/VIEW LOGS-blueviolet?colorA=%23FF00FF&colorB=%23017e40&style=for-the-badge"></a>
+<a href="https://dashboard.heroku.com/apps/javaica-back/logs"><img title="👾JAVAICA👾" src="https://img.shields.io/badge/VIEW LOGS-blueviolet?logoColor=violet&colorB=%23017e40&style=for-the-badge"></a>
 
 ## CARA INSTALL DI TERMUX
 ```bash
