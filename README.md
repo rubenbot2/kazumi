@@ -17,7 +17,7 @@
   <a href="https://wa.me/6281235877763"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 </p>
 
-## VIEW LOGS HEROKU
+##  VIEW LOGS HEROKU
 href="#"><img title="👾JAVAICA👾" src="https://img.shields.io/badge/VIEW LOGS-blueviolet?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 
 ## CARA INSTALL DI TERMUX
