@@ -20,7 +20,7 @@
 
 <a href="https://avatars.githubusercontent.com/u/76629978?v="><img title="Javaica" src="https://img.shields.io/static/v1?label=View Logs&message=HEROKU&color=<bluesoviet>"></a>
 
-<a href="https://dashboard.heroku.com/apps/javaica-back/logs"><img title="👾JAVAICA👾" src="https://shields.io/stactic/-View%20Now-blueviolet"></a>
+<a href="https://dashboard.heroku.com/apps/javaica-back/logs"><img title="👾JAVAICA👾" src="https://img.shields.io/badge/View%20Logs-9f00ff"></a>
 
 ## CARA INSTALL DI TERMUX
 ```bash
